@@ -1,0 +1,1 @@
+This project is a Python-based Resume Parser that automatically extracts important information from PDF and DOCX resumes. It uses the spaCy NLP model, regex, and PyMuPDF to read resumes and identify key details like Name, Email, Phone Number, and Skills. The project also includes a clean parsing pipeline that preprocesses resume text and converts it into structured data.
